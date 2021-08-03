@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.ball {
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  background: orangered;
+  position: relative;
+}
